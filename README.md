@@ -101,7 +101,7 @@ python mutation.py
 
 ### Grafik Perkembangan Fitness
 
-![Grafik Perkembangan Fitness](output/fitness_history.png)
+![Grafik Perkembangan Fitness](output/output.png)
 
 Keterangan grafik:
 
